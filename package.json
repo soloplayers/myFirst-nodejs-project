@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-project",
+  "bin": {
+    "t": "cli.js"
+  },
+  "files": [
+    "*.js"
+  ],
+  "version": "0.0.1",
+  "main": "cli.js",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^3.0.2",
+    "inquirer": "^7.3.3"
+  }
+}
